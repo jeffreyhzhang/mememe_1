@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MemeMe.TableCellVC.awakeFromNib (MemeMe.TableCellVC)() -&gt; ():TableCellVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "img">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeMe.MemeDetailVC.DeleteMeme (MemeMe.MemeDetailVC)() -&gt; ():MemeDetailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "myDelegate.rootVC">
+            </PersistentString>
+            <PersistentString
+               value = "myDelegate.memes.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeMe.TableCellVC.layoutSubviews (MemeMe.TableCellVC)() -&gt; ():TableCellVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UIScreen.mainScreen().bounds.height">
+            </PersistentString>
+            <PersistentString
+               value = "UIScreen.mainScreen().bounds.width">
+            </PersistentString>
+            <PersistentString
+               value = "img.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeMe.EditorVC.viewWillLayoutSubviews (MemeMe.EditorVC)() -&gt; ():EditorVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentMeme">
+            </PersistentString>
+            <PersistentString
+               value = "mysrc.toptext">
+            </PersistentString>
+            <PersistentString
+               value = "isEditing">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeMe.EditorVC.textField (MemeMe.EditorVC)(ObjectiveC.UITextField, shouldChangeCharactersInRange : C._NSRange, replacementString : Swift.String) -&gt; Swift.Bool:EditorVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "textField.text ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeMe.AppDelegate.application (MemeMe.AppDelegate)(ObjectiveC.UIApplication, didFinishLaunchingWithOptions : Swift.Optional&lt;Swift.Dictionary&lt;ObjectiveC.NSObject, Swift.AnyObject&gt;&gt;) -&gt; Swift.Bool:AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "memes.count">
+            </PersistentString>
+            <PersistentString
+               value = "rootVC">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeMe.EditorVC.generatedMemeimg (MemeMe.EditorVC)() -&gt; ObjectiveC.UIImage:EditorVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "toptxt.text">
+            </PersistentString>
+            <PersistentString
+               value = "memeimg">
+            </PersistentString>
+            <PersistentString
+               value = "self.view.frame.size">
+            </PersistentString>
+            <PersistentString
+               value = "pickedimg.image">
+            </PersistentString>
+            <PersistentString
+               value = "UIScreen.mainScreen().bounds.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeMe.EmojiTextFieldDelegate.textFieldDidBeginEditing (MemeMe.EmojiTextFieldDelegate)(ObjectiveC.UITextField) -&gt; ():EmojiTextFieldDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeMe.TableVC.tableView (MemeMe.TableVC)(ObjectiveC.UITableView, numberOfRowsInSection : Swift.Int) -&gt; Swift.Int:TableVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.allmemes.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeMe.EditorVC.viewDidLoad (MemeMe.EditorVC)() -&gt; ():EditorVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isEditing">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeMe.TableVC.tableView (MemeMe.TableVC)(ObjectiveC.UITableView, cellForRowAtIndexPath : ObjectiveC.NSIndexPath) -&gt; ObjectiveC.UITableViewCell:TableVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.img.frame.width">
+            </PersistentString>
+            <PersistentString
+               value = "cell.Xbound.constant ">
+            </PersistentString>
+            <PersistentString
+               value = "img.size.width">
+            </PersistentString>
+            <PersistentString
+               value = "UIScreen.mainScreen().bounds.width ">
+            </PersistentString>
+            <PersistentString
+               value = "itm.toptext">
+            </PersistentString>
+            <PersistentString
+               value = "img.size.height">
+            </PersistentString>
+            <PersistentString
+               value = "itm">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeMe.MemeDetailVC.EditMeme (MemeMe.MemeDetailVC)() -&gt; ():MemeDetailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "meme.bottomtext">
+            </PersistentString>
+            <PersistentString
+               value = "meme.toptext">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeMe.CollectionVC.collectionView (MemeMe.CollectionVC)(ObjectiveC.UICollectionView, numberOfItemsInSection : Swift.Int) -&gt; Swift.Int:CollectionVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "memes.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeMe.EditorVC.viewWillAppear (MemeMe.EditorVC)(Swift.Bool) -&gt; ():EditorVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pickedimg.image">
+            </PersistentString>
+            <PersistentString
+               value = "self.navigationController?">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeMe.EditorVC.configNavigationBar (MemeMe.EditorVC)() -&gt; ():EditorVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isEditing">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeMe.CollectionVC.init (MemeMe.CollectionVC.Type)(coder : ObjectiveC.NSCoder) -&gt; MemeMe.CollectionVC:CollectionVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "allmemes">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
